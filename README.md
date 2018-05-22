@@ -1,3 +1,3 @@
-# poker-hand
+# majiang-ts
 
-A Typescript poker hand evaluator, via [Hoyle](https://github.com/mdp/hoyle)
+Typescript majiang algorithms
